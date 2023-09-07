@@ -2,4 +2,4 @@
 
 * [🖥 XR](README.md)
 * [📱 Astro](astro.md)
-* [☎ Cosmo](cosmo.md)
+* [🚀 Cosmo](cosmo.md)
