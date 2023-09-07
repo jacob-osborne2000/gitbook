@@ -1,5 +1,5 @@
 ---
-description: Gitbook Example
+description: Explore the new Planet Computers XR Linux mini Desktop PC
 ---
 
 # 🖥 XR
