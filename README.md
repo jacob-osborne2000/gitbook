@@ -1,4 +1,10 @@
-# gitbook
+---
+description: Gitbook Example
+---
+
+# 🍕 Title Here
+
+
 
 <figure><img src=".gitbook/assets/PlanetPC-XR-GlowBlue+Shadow-ClearBG.webp" alt=""><figcaption><p>XR2 by Planet Computers</p></figcaption></figure>
 
