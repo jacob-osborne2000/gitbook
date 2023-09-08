@@ -12,7 +12,7 @@ description: Explore the new Planet Computers XR Linux mini Desktop PC
 
 This is the new Plant PC **Linux** mini Desktop PC
 
-
+{% embed url="https://docs.google.com/spreadsheets/d/1XEUvElQ5jbwPoLq0_Yqe8WCKsg0BQRehQjwVLlOCLHw/edit?usp=sharing" %}
 
 ***
 
