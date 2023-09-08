@@ -72,3 +72,7 @@ Stereo speakers and a microphone are included for full out-of-the-box audio read
 {% embed url="https://www.www3.planetcom.co.uk/computers" %}
 Check out the full website to the XR Series of Linux PCs
 {% endembed %}
+
+{% content-ref url="astro.md" %}
+[astro.md](astro.md)
+{% endcontent-ref %}
